@@ -3,7 +3,7 @@
 		<SpWallet ref="wallet" v-on:dropdown-opened="$refs.menu.closeDropdown()" />
 		<SpLayout>
 			<template v-slot:sidebar>
-				<Sidebar />
+				<Sidebar /> 
 			</template>
 			<template v-slot:content>
 				<router-view />

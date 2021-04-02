@@ -4,11 +4,11 @@ accounts:
   - name: foundation
     coins: ["1337token", "33000000stake"]
 validator:
-  name: god
+  name: alex
   staked: "1000000stake"
 client:
   vuex:
     path: "vue/src/store"
 faucet:
-  name: max 
+  name: foundation 
   coins: ["1550token"]
