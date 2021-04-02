@@ -1,0 +1,14 @@
+accounts:
+  - name: alex
+    coins: ["1337token", "100000000stake"]
+  - name: foundation
+    coins: ["1337token", "33000000stake"]
+validator:
+  name: god
+  staked: "1000000stake"
+client:
+  vuex:
+    path: "vue/src/store"
+faucet:
+  name: max 
+  coins: ["1550token"]
