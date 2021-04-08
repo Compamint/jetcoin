@@ -1,4 +1,4 @@
-# JetCoin Network powered by Compamint Platform Kit
+# JetCoin Network powered by Tokify Platform Kit
 
 **jetcoin** is a blockchain built using Cosmos SDK and Tendermint and created with [Starport](https://github.com/tendermint/starport).
 
